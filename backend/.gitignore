@@ -35,9 +35,6 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# Runtime JSON storage (lab)
-/data/users.json
-
 # dotenv environment variable files
 .env
 .env.development.local

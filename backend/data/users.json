@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Yeremi Tantraico",
+      "email": "yeremitantaraico@gmail.com",
+      "role": "Admin TI",
+      "totpEnabled": true,
+      "totpSecret": "5VG6RSHGNH5CQMOXCFUPZJFKHFP3NADW",
+      "totpPendingSecret": null,
+      "totpSetupPromptDismissed": false,
+      "passwordHash": "$2b$10$Vr1HZzXF4ZckPFe7d9aqteO59P1X1daxD34jT0ngJPlAEdSq3EhX.",
+      "totpAccountName": "APP AUTH - SDK",
+      "totpPendingAccountName": null
+    }
+  ]
+}
