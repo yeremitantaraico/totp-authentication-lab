@@ -1,11 +1,5 @@
 <p align="center">
-  <svg role="img" aria-label="TOTP Authentication Lab" width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-    <rect width="128" height="128" rx="24" fill="#2563EB"/>
-    <path d="M64 34c-9.9 0-18 8.1-18 18v10h36V52c0-9.9-8.1-18-18-18z" fill="#DBEAFE"/>
-    <rect x="38" y="60" width="52" height="38" rx="8" fill="#FFFFFF"/>
-    <circle cx="64" cy="79" r="8" fill="#2563EB"/>
-    <rect x="61" y="79" width="6" height="12" rx="3" fill="#2563EB"/>
-  </svg>
+  <img src="assets/logo.svg" alt="TOTP Authentication Lab" width="128" />
 </p>
 
 <h1 align="center">TOTP Authentication Lab</h1>
